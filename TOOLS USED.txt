@@ -1,0 +1,21 @@
+TOOLS USED:
+
+Frontend:
+
+-> Developed using Flutter (Dart) with a proper structure.
+-> main.dart – Application entry point
+-> login / register screens – User authentication
+-> home screen – Role-based dashboard
+-> farmer dashboard – Add products, manage stock, view orders
+-> retailer dashboard – Browse products and place orders
+-> product & order screens – Product display and order tracking
+-> widgets – Reusable UI components
+
+BACKEND & DATABASE:
+
+->Backend: Firebase 
+->Authentication: Firebase Authentication
+->Database: Firebase Firestore 
+	->Users
+	->Products
+	->Orders
